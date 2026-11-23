@@ -1,6 +1,6 @@
 # Privacy Policy - Tehillim
 
-Last updated: September 2026
+Last updated: November 2026
 
 ## Overview
 
@@ -10,7 +10,7 @@ The app runs locally on your device, without requiring an account, an internet c
 
 ## Data Collection
 
-The app does not collect, store, transmit, or share personal data.
+The developer does not collect, receive, or share your personal data.
 
 Specifically:
 
@@ -22,18 +22,26 @@ Specifically:
 - No location collection
 - No contact access
 - No microphone or camera access
-- No cloud synchronization
+- No cloud synchronization by the app
 
 ## Information Stored on the Device
 
-The app stores the following information locally on your device only:
+The app stores the following information on your device:
 
 - Favorite chapters
-- Reading progress
-- Settings and display preferences, such as light or dark mode, text size, and prayer rite
-- Reminder settings
+- Reading progress and the last reading position
+- The order and visibility of the prayer list
+- Settings and display preferences, such as light or dark mode, text size, prayer rite, and selected city
+- Reminder settings, including any reminder text you write
+- Names recently used to read Psalm 119
 
-This information never leaves your device and is not transmitted to the developer or to any third party.
+The app does not send this information to the developer.
+
+## Device Backup and Transfer
+
+If device backup is turned on, or if you move your data to a new device, the operating system may copy the app's information through Apple's or Google's services or directly between the devices. The developer has no access to these copies. You can manage backup in your device's settings.
+
+The names recently used to read Psalm 119 are the exception: starting with version 1.47, the app excludes them from backup and transfer. On iPhone, backups made by earlier versions may still contain them.
 
 ## Notifications
 
@@ -44,6 +52,8 @@ If you choose to turn on reminders, they are scheduled on the device itself usin
 The app works fully offline.
 
 External links, such as rating or sharing the app, open outside the app, in the app store or in the device's browser.
+
+Review requests, and update checks on Android, are carried out by Google Play or the App Store under their own privacy policies.
 
 ## Text Sources
 
@@ -63,7 +73,7 @@ The app does not collect personal information from anyone, including children.
 
 ## Security
 
-Because the app does not collect or transmit user data, there is no user account and no personal information stored on external servers.
+Because the developer does not collect user data, there is no user account and no personal information stored on the developer's servers.
 
 ## Changes to This Policy
 
@@ -81,7 +91,7 @@ psalms.app10@gmail.com
 
 # מדיניות פרטיות - תהילים
 
-עודכן לאחרונה: ספטמבר 2026
+עודכן לאחרונה: נובמבר 2026
 
 ## כללי
 
@@ -91,7 +101,7 @@ psalms.app10@gmail.com
 
 ## איסוף מידע
 
-האפליקציה אינה אוספת, שומרת, מעבירה או משתפת מידע אישי.
+המפתח אינו אוסף, מקבל או משתף את המידע האישי שלך.
 
 בפרט:
 
@@ -103,18 +113,26 @@ psalms.app10@gmail.com
 - אין איסוף מיקום
 - אין גישה לאנשי קשר
 - אין גישה למיקרופון או למצלמה
-- אין סנכרון לענן
+- אין סנכרון לענן על ידי האפליקציה
 
 ## מידע הנשמר במכשיר
 
-האפליקציה שומרת את המידע הבא מקומית במכשיר שלך בלבד:
+האפליקציה שומרת את המידע הבא במכשיר שלך:
 
 - פרקים מועדפים
-- התקדמות הקריאה
-- הגדרות והעדפות תצוגה, כגון מצב בהיר או כהה, גודל הטקסט ונוסח התפילה
-- הגדרות התזכורות
+- התקדמות הקריאה ומיקום הקריאה האחרון
+- סדר רשימת התפילות והתפילות המוצגות בה
+- הגדרות והעדפות תצוגה, כגון מצב בהיר או כהה, גודל הטקסט, נוסח התפילה והעיר שנבחרה
+- הגדרות התזכורות, לרבות טקסט תזכורת שכתבת
+- שמות ששימשו לאחרונה לקריאת פרק קי״ט
 
-מידע זה אינו יוצא מהמכשיר ואינו מועבר למפתח או לצד שלישי כלשהו.
+האפליקציה אינה שולחת מידע זה למפתח.
+
+## גיבוי והעברה בין מכשירים
+
+אם הגיבוי במכשיר פעיל, או אם תעביר את הנתונים שלך למכשיר חדש, מערכת ההפעלה עשויה להעתיק את נתוני האפליקציה באמצעות שירותי Apple או Google או ישירות בין המכשירים. למפתח אין גישה לעותקים אלה. ניתן לנהל את הגיבוי בהגדרות המכשיר.
+
+השמות ששימשו לאחרונה לקריאת פרק קי״ט הם חריג: החל מגרסה 1.47 האפליקציה מחריגה אותם מגיבוי ומהעברה. באייפון, גיבויים שנוצרו בגרסאות קודמות עשויים עדיין לכלול אותם.
 
 ## התראות
 
@@ -125,6 +143,8 @@ psalms.app10@gmail.com
 האפליקציה פועלת באופן מלא ללא חיבור לאינטרנט.
 
 קישורים חיצוניים, כגון דירוג האפליקציה או שיתופה, נפתחים מחוץ לאפליקציה, בחנות האפליקציות או בדפדפן של המכשיר.
+
+בקשות דירוג, וכן בדיקת עדכונים באנדרואיד, מבוצעות על ידי Google Play או App Store בהתאם למדיניות הפרטיות שלהן.
 
 ## מקורות הטקסטים
 
@@ -144,7 +164,7 @@ psalms.app10@gmail.com
 
 ## אבטחה
 
-מאחר שהאפליקציה אינה אוספת או מעבירה מידע על המשתמשים, אין חשבון משתמש ואין מידע אישי השמור בשרתים חיצוניים.
+מאחר שהמפתח אינו אוסף מידע על המשתמשים, אין חשבון משתמש ואין מידע אישי השמור בשרתים של המפתח.
 
 ## שינויים במדיניות
 
